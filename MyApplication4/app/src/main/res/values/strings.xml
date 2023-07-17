@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight">Weight</string>
+    <string name="Hight_f">Height in Ft</string>
+    <string name="Heigth_i">Height In Inch</string>
+</resources>
